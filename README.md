@@ -4,6 +4,8 @@ A simple and beautiful search interface built with **React**, **Express**, and a
 
 This project lets users search documents and view snippets, semantic scores, and keyword scores with a clean UI and modal preview.
 
+## VideoUrl = https://drive.google.com/file/d/1sXnUFkvgBp4t0t4_nRQ4bEAmU469qdHl/view?usp=sharing
+
 ## 🚀 Features
 
 * **Clean & modern search UI**
