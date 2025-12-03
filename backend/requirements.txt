@@ -1,0 +1,9 @@
+pymongo
+wikipedia-api
+Flask
+Flask-Cors
+langdetect
+nltk
+whoosh
+scikit-learn
+numpy
